@@ -1,0 +1,5 @@
+{"TEST-FOR": "NETSKOPE",
+"$schema": "https://json.schemastore.org/typings",
+"main": 
+["text", "NETSKOPE TEST" ]
+}
